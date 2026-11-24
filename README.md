@@ -1,6 +1,12 @@
-# phone_power_monitor
+# BatteryGuard - Phone Battery Monitor
 
-A new Flutter project.
+BatteryGuard is a Flutter app for monitoring live battery level, battery-side power, and device-reported battery health information.
+
+## Screenshots
+
+| Dashboard | Battery health |
+| --- | --- |
+| ![BatteryGuard dashboard](screenshots/01-dashboard.png) | ![Battery health screen](screenshots/02-battery-health.png) |
 
 ## Getting Started
 
